@@ -13,6 +13,7 @@ On aura donc a gerer une interface avec un missile qui bouge suivant la demande 
 - la touche q pour aller à gauche
 - la touche d pour aller à droite
 - la barre espace pour tirer 
+ATTENTION: si l'utilisateur appuie sur q alors qu'il est au max de l'interface, l'objet n'avance plus vers la gauche. 
 
 Les monstres peuvent se déplacer et tirer en même temps. Pour simplifier on dira qu'un monstre tire toutes les 4 secondes si il est sur la ligne la plus proche du vaisseau. 
 
